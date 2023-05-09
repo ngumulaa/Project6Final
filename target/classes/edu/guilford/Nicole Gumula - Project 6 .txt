@@ -1,0 +1,7 @@
+﻿List of Exceptions: 
+
+
+1. ClassNotFoundException → is a runtime exception that occurs in Java when it is unable to find the class that is specified by the program.
+2. FileNotFoundException → is a runtime exception in Java that occurs when the program tries to access a file that does not exist or cannot be found.
+3. NumberFormatException → is a runtime exception in Java that occurs when the program attempts to convert a string to a numerical value, but the string does not have the appropriate format.
+4. RunTimeException → entering integers instead of characters, not entering any information at all in the appropriate text fields
